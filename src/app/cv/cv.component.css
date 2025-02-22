@@ -1,0 +1,25 @@
+.container {
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 50px;
+}
+
+.header {
+    text-align: center;
+    padding: 10px;
+}
+
+.flex-container {
+    display: flex;
+    justify-content: space-around;
+}
+
+.historicoProfissional {
+    text-align: justify;
+    width: 100%;
+    word-spacing: 200px;
+}
+
+.no-spacing {
+    word-spacing: 0;
+    white-space: nowrap;
+}
